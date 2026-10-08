@@ -2,7 +2,7 @@
 
 An interactive map of China's clean-technology exports, 2018 to present. Bar height shows the US$ value of exports to each destination. Explore by country, sub-region or continental region, filter by technology, set a minimum export value, and play the animation through time.
 
-**Live map:** `https://BZhaoo.github.io/china-cleantech-export-map/` (replace after enabling GitHub Pages)
+**Live map:** `https://bzhaoo.github.io/Chinese-Clean-Tech-Exports-Global-Map-Visualization`
 
 ## Features
 - Bars scaled by export value, with stacked columns by technology (solar PV, batteries, EVs, grid, heating and cooling, wind)
