@@ -1,4 +1,4 @@
-# China Clean Tech Exports Global Map
+# Globally Mapping China's Clean Tech Exports 
 
 An interactive map of China's clean-technology exports, 2018 to present. Bar height shows the US$ value of exports to each destination. Explore by country, sub-region or continental region, filter by technology, set a minimum export value, and play the animation through time.
 
