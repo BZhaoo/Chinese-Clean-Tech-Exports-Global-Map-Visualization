@@ -23,13 +23,3 @@ An interactive map of China's clean-technology exports, 2018 to present. Bar hei
 | `template.html` | Page design and logic used by `build_map.py` |
 | `ne_110m_admin_0_countries.geojson` | Country borders |
 | `.github/workflows/rebuild.yml` | Rebuilds the map automatically on the 10th of each month |
-
-## Publish with GitHub Pages
-Settings → Pages → Source: **Deploy from a branch** → branch **main**, folder **/ (root)** → Save.
-
-## Update the data
-- **Automatic:** the workflow in `.github/workflows/rebuild.yml` runs monthly. Run it any time from the **Actions** tab → "Rebuild map" → **Run workflow**.
-- **Manually:** `pip install pandas`, then
-  `python build_map.py <path-or-url-to-csv> index.html ne_110m_admin_0_countries.geojson`
-
-Keep `build_map.py` and `template.html` in the same folder.
